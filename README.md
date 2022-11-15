@@ -2,7 +2,7 @@
 
 ## Description
 
-__Part of the MAW project__.
+[Part of the MAW project](https://github.com/project-kaat/maw)
 
 Database setup for MAW project. `mariadb` is used as the SQL server.
 
